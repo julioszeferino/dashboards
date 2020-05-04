@@ -1,4 +1,5 @@
-# Projeto: Desenvolvimento de Dashboards em PowerBI
+# Projeto: Desenvolvimento de Dashboards em PowerBI  
+*Clique nas imagens para abrir os relatórios na web.
 
 ## Projeto 001 - WorkAdventure
 
