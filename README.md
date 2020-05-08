@@ -5,6 +5,9 @@
 
 [![WorkAdventure](https://i.imgur.com/KjmNCnO.png)](https://app.powerbi.com/view?r=eyJrIjoiNmUzZDhjOWYtODQxYy00OWE0LTlkYzUtOTAyMTUxNzFjMmQ1IiwidCI6ImIyZDgxYThkLWQ1NzMtNGNkZS04MWZjLTc4Zjg4NzMzZTg3YiJ9)  
 
+## Projeto 002 - Orçamento  
+
+[![Orçamento](https://i.imgur.com/ij0Xxnj.png)](https://app.powerbi.com/view?r=eyJrIjoiMmIxOWFjN2QtODA1OS00MmE5LWE2ODctMDVjZGEwNDVhZDc5IiwidCI6ImIyZDgxYThkLWQ1NzMtNGNkZS04MWZjLTc4Zjg4NzMzZTg3YiJ9)  
 
 ## Direitos de Uso
 A ideia deste repositório é treinar os conceitos de PowerBI e compartilhar conhecimento. Dessa forma, você pode replicar e utilizar o conteúdo deste repositório sem nenhuma restrição desde que forneça uma atribuição de volta e não me responsabilize por quaisquer reclamações, danos ou responsabilidades.
