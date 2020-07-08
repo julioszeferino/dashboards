@@ -9,8 +9,12 @@
 
 [![Orçamento](https://i.imgur.com/ij0Xxnj.png)](https://app.powerbi.com/view?r=eyJrIjoiMmIxOWFjN2QtODA1OS00MmE5LWE2ODctMDVjZGEwNDVhZDc5IiwidCI6ImIyZDgxYThkLWQ1NzMtNGNkZS04MWZjLTc4Zjg4NzMzZTg3YiJ9)  
 
+## Projeto 003 - DFC  
+
+[![DFC](https://i.imgur.com/s6oUy9q.png)](https://app.powerbi.com/view?r=eyJrIjoiZGQ2YTYwMmUtZTRiMC00ZDUwLTkwZGEtNDY1OTdjMTdiMDBmIiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9)
+
 ## Direitos de Uso
-A ideia deste repositório é treinar os conceitos de PowerBI e compartilhar conhecimento. Dessa forma, você pode replicar e utilizar o conteúdo deste repositório sem nenhuma restrição desde que forneça uma atribuição de volta e não me responsabilize por quaisquer reclamações, danos ou responsabilidades.
+A ideia deste repositório é treinar os conceitos de PowerBI e compartilhar conhecimento. Dessa forma, você pode replicar e utilizar o conteúdo deste repositório sem nenhuma restrição desde que forneça uma atribuição de volta e não me responsabilize por quaisquer reclamações, danos ou responsabilidades.  
 
 Exigido | Permitido |Proibido
 :---: | :---: | :---:
