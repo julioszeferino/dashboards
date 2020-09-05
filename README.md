@@ -15,7 +15,13 @@
 
 ## Projeto 004 - Tickets de Suporte  
 
-[![Tickets](https://i.imgur.com/dxzSDfN.png)](https://app.powerbi.com/view?r=eyJrIjoiMTE3NzdlNTgtZjQ4ZC00Njk5LTgwYTktN2ZlNGI3N2M1ZDlmIiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9&pageName=ReportSection8f660248baf633772faf) 
+[![Tickets](https://i.imgur.com/dxzSDfN.png)](https://app.powerbi.com/view?r=eyJrIjoiMTE3NzdlNTgtZjQ4ZC00Njk5LTgwYTktN2ZlNGI3N2M1ZDlmIiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9&pageName=ReportSection8f660248baf633772faf)  
+
+## Projeto 005 - Área VIP (Projeto Interno Sal Express Soluções Logísticas)  
+
+Acompanhe a descrição deste projeto aqui:  
+
+[![Area Vip](https://i.imgur.com/RXuHJgF.png)](https://salexpress.com.br/portal/)
 
 ## Direitos de Uso
 A ideia deste repositório é treinar os conceitos de PowerBI e compartilhar conhecimento. Dessa forma, você pode replicar e utilizar o conteúdo deste repositório sem nenhuma restrição desde que forneça uma atribuição de volta e não me responsabilize por quaisquer reclamações, danos ou responsabilidades.  
