@@ -11,7 +11,11 @@
 
 ## Projeto 003 - DFC  
 
-[![DFC](https://i.imgur.com/s6oUy9q.png)](https://app.powerbi.com/view?r=eyJrIjoiZGQ2YTYwMmUtZTRiMC00ZDUwLTkwZGEtNDY1OTdjMTdiMDBmIiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9)
+[![DFC](https://i.imgur.com/s6oUy9q.png)](https://app.powerbi.com/view?r=eyJrIjoiZGQ2YTYwMmUtZTRiMC00ZDUwLTkwZGEtNDY1OTdjMTdiMDBmIiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9)  
+
+## Projeto 004 - Tickets de Suporte  
+
+[![Tickets](https://i.imgur.com/dxzSDfN.png)](https://app.powerbi.com/view?r=eyJrIjoiMTE3NzdlNTgtZjQ4ZC00Njk5LTgwYTktN2ZlNGI3N2M1ZDlmIiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9&pageName=ReportSection8f660248baf633772faf) 
 
 ## Direitos de Uso
 A ideia deste repositório é treinar os conceitos de PowerBI e compartilhar conhecimento. Dessa forma, você pode replicar e utilizar o conteúdo deste repositório sem nenhuma restrição desde que forneça uma atribuição de volta e não me responsabilize por quaisquer reclamações, danos ou responsabilidades.  
