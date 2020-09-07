@@ -19,7 +19,11 @@
 
 ## Projeto 005 - Área VIP (Projeto Interno Sal Express Soluções Logísticas)  
 
-[![Area Vip](https://i.imgur.com/RXuHJgF.png)](https://github.com/julioszeferino/AreaVip)
+[![Area Vip](https://i.imgur.com/RXuHJgF.png)](https://github.com/julioszeferino/AreaVip)  
+
+## Projeto 006 - Análise de desempenho (Strava)  
+
+[![Analise Desempenho](https://i.imgur.com/xHsxeRY.png)](https://app.powerbi.com/view?r=eyJrIjoiMTg3MDA1YmItNDUyNy00YWM5LWJlN2UtZmVhNjg5ODI1M2UyIiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9&pageName=ReportSection6fb3e1e6926d02a85c83)    
 
 ## Direitos de Uso
 A ideia deste repositório é treinar os conceitos de PowerBI e compartilhar conhecimento. Dessa forma, você pode replicar e utilizar o conteúdo deste repositório sem nenhuma restrição desde que forneça uma atribuição de volta e não me responsabilize por quaisquer reclamações, danos ou responsabilidades.  
