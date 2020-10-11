@@ -25,7 +25,11 @@
 
 [![Area Vip](https://i.imgur.com/RXuHJgF.png)](https://github.com/julioszeferino/AreaVip)  
 
-## Projeto 007 - Análise de desempenho (Strava)  
+## Projeto 007 - Dashboard Financeiro com DRE    
+
+[![DRE](https://i.imgur.com/Z4tflZo.png)](https://app.powerbi.com/view?r=eyJrIjoiY2M2N2UwOWMtNTZkNy00Y2MzLWEzMjYtODU3MzY2NGYzYWY2IiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9&pageName=ReportSectionff1019bda24ebb5e04ec)   
+
+## Projeto 008 - Análise de desempenho (Strava)  
 
 [![Analise Desempenho](https://i.imgur.com/xHsxeRY.png)](https://app.powerbi.com/view?r=eyJrIjoiMTg3MDA1YmItNDUyNy00YWM5LWJlN2UtZmVhNjg5ODI1M2UyIiwidCI6IjM0Zjc1YTY1LWUzYWItNDY3Yy1hNzhhLTcxNjkwNTBjMWY5MSJ9&pageName=ReportSection6fb3e1e6926d02a85c83)    
 
